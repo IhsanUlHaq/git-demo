@@ -2,14 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website Contents
 
-Tatoesdsfs fsdrfhaesrfe rerwefjkewhrwef sdkf fsdfsdfhs
-
-Tatoesdsfs fsdrfhaesrfe rerwefjkewhrwef sdkf fsdfsdfhs
-
-Tatoesdsfs fsdrfhaesrfe rerwefjkewhrwef sdkf fsdfsdfhs
-Tatoesdsfs fsdrfhaesrfe rerwefjkewhrwef sdkf fsdfsdfhs
-
-Tatoesdsfs fsdrfhaesrfe rerwefjkewhrwef sdkf fsdfsdfhs
-Tatoesdsfs fsdrfhaesrfe rerwefjkewhrwef sdkf fsdfsdfhs
+1. index.html
